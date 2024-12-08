@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @defnotfly.
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning Java, Python, & C++
+- 🌱 I’m currently learning Java, Python, & SQL
 - 💞️ I’m looking to collaborate with many aspiring programmers.
 - 📫 How to reach me: flloyddiaz@gmail.com
 - 😄 Pronouns: he/him
